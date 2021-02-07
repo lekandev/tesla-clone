@@ -83,7 +83,7 @@ function App() {
             twoButtons='true'
           />
           <Item 
-            title='Acessories'
+            title='Accessories'
             desc='Money-back guarantee'
             descLink=''
             backgroundImg={Accessories}
@@ -91,7 +91,6 @@ function App() {
             leftBtnLink=''
             rightBtnTxt='LEARN MORE'
             rightBtnLink=''
-            twoButtons='true'
           />
         </div>
     </div>
